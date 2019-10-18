@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B9E1D05D-43AB-D5E1-1EF3-09A469DBAFFF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RenderLearn423",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
+		}
+	]
+}

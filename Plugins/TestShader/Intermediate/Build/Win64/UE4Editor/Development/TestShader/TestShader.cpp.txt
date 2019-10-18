@@ -1,0 +1,2 @@
+F:\UnrealProj\RenderLearn423\Plugins\TestShader\Intermediate\Build\Win64\UE4Editor\Development\TestShader\Definitions.TestShader.h
+F:\UnrealProj\RenderLearn423\Plugins\TestShader\Source\TestShader\Public\TestShader.h

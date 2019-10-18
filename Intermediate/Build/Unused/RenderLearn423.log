@@ -1,0 +1,20 @@
+﻿  EMSDK enviroment variable is set to point to F:/em++/emsdk but needed tools were not found:
+  EMSCRIPTEN_ROOT:  F:\em++\emsdk\emscripten\1.38.12, exists: True
+  LLVM_ROOT: F:/em++/emsdk\Win64\clang\e1.38.31_64bit, exists: False
+  NODE_JS: F:/em++/emsdk\Win64\node\8.9.1_64bit\bin\node.exe, exists: False
+  PYTHON: F:/em++/emsdk\Win64\python\2.7.13.1_64bit\python.exe, exists: False
+  *** NODE_JS NOT FOUND: F:/em++/emsdk\Win64\node\8.9.1_64bit\bin\node.exe
+  *** LLVMROOT directory NOT FOUND: F:/em++/emsdk\Win64\clang\e1.38.31_64bit
+  *** PYTHON NOT FOUND: F:/em++/emsdk\Win64\python\2.7.13.1_64bit\python.exe
+  EMSDK enviroment variable is set to point to F:/em++/emsdk but needed tools were not found:
+  EMSCRIPTEN_ROOT:  F:\em++\emsdk\emscripten\1.38.12, exists: True
+  LLVM_ROOT: F:/em++/emsdk\Win64\clang\e1.38.31_64bit, exists: False
+  NODE_JS: F:/em++/emsdk\Win64\node\8.9.1_64bit\bin\node.exe, exists: False
+  PYTHON: F:/em++/emsdk\Win64\python\2.7.13.1_64bit\python.exe, exists: False
+  *** NODE_JS NOT FOUND: F:/em++/emsdk\Win64\node\8.9.1_64bit\bin\node.exe
+  *** LLVMROOT directory NOT FOUND: F:/em++/emsdk\Win64\clang\e1.38.31_64bit
+  *** PYTHON NOT FOUND: F:/em++/emsdk\Win64\python\2.7.13.1_64bit\python.exe
+  Using 'git status' to determine working set for adaptive non-unity build (F:\UnrealEngine).
+  Waiting for 'git status' command to complete
+  Targets are up to date
+  Total execution time: 3.15 seconds

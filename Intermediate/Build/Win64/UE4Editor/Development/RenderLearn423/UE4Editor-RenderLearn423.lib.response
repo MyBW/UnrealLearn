@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RenderLearn423.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UnrealProj\RenderLearn423\Intermediate\Build\Win64\UE4Editor\Development\RenderLearn423\RenderLearn423.cpp.obj"
+"F:\UnrealProj\RenderLearn423\Intermediate\Build\Win64\UE4Editor\Development\RenderLearn423\RenderLearn423GameModeBase.cpp.obj"
+"F:\UnrealProj\RenderLearn423\Intermediate\Build\Win64\UE4Editor\Development\RenderLearn423\RenderLearn423.init.gen.cpp.obj"
+"F:\UnrealProj\RenderLearn423\Intermediate\Build\Win64\UE4Editor\Development\RenderLearn423\RenderLearn423GameModeBase.gen.cpp.obj"
+"F:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProj\RenderLearn423\Intermediate\Build\Win64\UE4Editor\Development\RenderLearn423\UE4Editor-RenderLearn423.lib"
+/INCLUDE:IMPLEMENT_MODULE_RenderLearn423

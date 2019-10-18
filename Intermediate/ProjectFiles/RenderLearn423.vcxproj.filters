@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RenderLearn423.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D4C037D5-C7B3-4FE7-8180-D4AC5249B1A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RenderLearn423.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RenderLearn423Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FAC18D46-5636-4789-8B81-D7F1749DF5D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{1A97D3FB-5EF7-4143-A8ED-41A662F693FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{32CCE7D7-2BE9-40FA-88C7-273D78033037}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{05790110-50B1-4A56-8089-D258B0C073CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{315657F0-9742-4599-9FAC-EB3A674A7718}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{C28BC29F-23D9-4C37-9CE7-9D2C3A859172}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{BD6170CA-3ACC-4C36-9D7D-C4BA408F6F7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{D35BB45B-9601-49E9-A667-C98EA37E1E0C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{8D025E8B-3D2B-46DF-8873-F428E5831683}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{78D85D12-08BB-47B5-98B7-A42699BA24BC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestShader">
+      <UniqueIdentifier>{319CE63E-D2CA-4E41-88B7-7F005235E7E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestShader\Source">
+      <UniqueIdentifier>{2891D569-5515-448F-B71D-97D803FF50BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TestShader\Source\TestShader">
+      <UniqueIdentifier>{F0C5A168-1CC8-4689-9B70-0BD12A2DEF79}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestShader\Source\TestShader\TestShader.Build.cs">
+      <Filter>Plugins\TestShader\Source\TestShader</Filter>
+    </None>
+    <Filter Include="Plugins\TestShader\Source\TestShader\Private">
+      <UniqueIdentifier>{2582A5DB-FF0A-4F71-A6A9-23C1D527C9B1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TestShader\Source\TestShader\Private\MyShader.cpp">
+      <Filter>Plugins\TestShader\Source\TestShader\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TestShader\Source\TestShader\Private\TestShader.cpp">
+      <Filter>Plugins\TestShader\Source\TestShader\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TestShader\Source\TestShader\Public">
+      <UniqueIdentifier>{74DEDE26-EB58-40F5-840C-D02A015606D2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TestShader\Source\TestShader\Public\MyShader.h">
+      <Filter>Plugins\TestShader\Source\TestShader\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TestShader\Source\TestShader\Public\TestShader.h">
+      <Filter>Plugins\TestShader\Source\TestShader\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\TestShader\TestShader.uplugin">
+      <Filter>Plugins\TestShader</Filter>
+    </None>
+    <Filter Include="Plugins\TestShader\Resources">
+      <UniqueIdentifier>{C3656E68-3AA8-4135-9F9A-E386FF451587}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TestShader\Resources\Icon128.png">
+      <Filter>Plugins\TestShader\Resources</Filter>
+    </None>
+    <Filter Include="Source\RenderLearn423">
+      <UniqueIdentifier>{C12E66A4-F6F4-487C-93D1-B7CEC19E61BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RenderLearn423\RenderLearn423.Build.cs">
+      <Filter>Source\RenderLearn423</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RenderLearn423\RenderLearn423.cpp">
+      <Filter>Source\RenderLearn423</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RenderLearn423\RenderLearn423.h">
+      <Filter>Source\RenderLearn423</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RenderLearn423\RenderLearn423GameModeBase.cpp">
+      <Filter>Source\RenderLearn423</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RenderLearn423\RenderLearn423GameModeBase.h">
+      <Filter>Source\RenderLearn423</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
